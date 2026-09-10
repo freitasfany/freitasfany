@@ -6,17 +6,13 @@
   <strong>🎓 Estudante de Análise e Desenvolvimento de Sistemas • FIAP</strong>
 </p>
 
-<p align="center">
-  💗 Java • Python • SQL • APIs REST
-</p>
-
 <br>
 
 <h2 align="center">🌸 Sobre mim</h2>
 
 <p align="center">
   Estudante de tecnologia apaixonada por desenvolvimento de software.<br>
-  Atualmente focada em Java, Python, bancos de dados e desenvolvimento de APIs.
+  Atualmente focada em Java, Python, bancos de dados e desenvolvimento e consumo de APIs.
 </p>
 
 <br>
