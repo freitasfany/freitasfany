@@ -12,20 +12,15 @@
 
 ### 🤖 Estatísticas
 
-<p>
+<div>
   <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=freitasfany&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=freitasfany&show_icons=true&theme=dark&include_all_commits=true"
   />
 
   <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasfany&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasfany&layout=compact&langs_count=16&theme=dark"
   />
-</p>
+</div>
           
