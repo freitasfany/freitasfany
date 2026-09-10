@@ -1,26 +1,45 @@
-# 💻 Stefany Sanatana
+<h1 align="center">
+  💻 Stefany Santana
+</h1>
 
-♨️ Estudante de Análise e Desenvolvimento de sistemas - FIAP  
-
-## Tecnologias
-<p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="50">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="50">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="50">
+<p align="center">
+  <strong>🎓 Estudante de Análise e Desenvolvimento de Sistemas • FIAP</strong>
 </p>
 
-### 🤖 Estatísticas
+<p align="center">
+  💗 Java • Python • SQL • APIs REST
+</p>
 
-<div>
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=freitasfany&show_icons=true&theme=dark&include_all_commits=true"
-  />
+<br>
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasfany&layout=compact&langs_count=16&theme=dark"
-  />
-</div>
-          
+<h2 align="center">🌸 Sobre mim</h2>
+
+<p align="center">
+  Estudante de tecnologia apaixonada por desenvolvimento de software.<br>
+  Atualmente focada em Java, Python, bancos de dados e desenvolvimento de APIs.
+</p>
+
+<br>
+
+<h2 align="center">🛠️ Tecnologias</h2>
+
+<p align="center">
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,oracle,git,github,postman,vscode&perline=9" />
+</p>
+</p>
+
+<br>
+
+<h2 align="center">📊 GitHub</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=freitasfany&show_icons=true&hide_border=false&title_color=FF69B4&text_color=E6EDF3&icon_color=FF69B4&bg_color=0D1117&border_color=FF69B4&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=freitasfany&layout=compact&hide_border=false&title_color=FF69B4&text_color=E6EDF3&bg_color=0D1117&border_color=FF69B4" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=freitasfany&label=Profile%20views&color=FF69B4&style=flat" />
+</p>
