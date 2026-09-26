@@ -27,12 +27,7 @@
   </tr>
   <tr>
     <td width="33%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js&perline=3" /></td>
-<td width="33%" align="center" valign="middle">
-      <img width="48" height="48" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      <img width="48" height="48" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img width="48" height="48" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img width="48" height="48" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    </td>
+    <td width="33%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=java,python,mysql,postgres&perline=4" /></td>
     <td width="33%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&perline=5" /></td>
   </tr>
 </table>
