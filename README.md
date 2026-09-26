@@ -46,8 +46,7 @@
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=freitasfany&layout=compact&hide_border=false&title_color=FF69B4&text_color=E6EDF3&bg_color=0D1117&border_color=FF69B4" />
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=freitasfany&label=Profile%20views&color=FF69B4&style=flat" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/freitasfany/freitasfany/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/freitasfany/freitasfany/output/github-contribution-grid-snake.svg" />
+</picture>
