@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: freitasfany
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FF69B4&color_dots=%23fbdde3,%23f9b8d3,%23f78fbb,%23fb64a3,%23FF69B4
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF69B4&color_dots=%23fbdde3,%23f9b8d3,%23f78fbb,%23fb64a3,%23FF69B4
+            dist/github-contribution-grid-snake.svg?color_snake=%23FF69B4
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF69B4
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
