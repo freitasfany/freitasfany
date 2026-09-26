@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻 Stefany Santana
+  💻 Stefany Freitas
 </h1>
 
 <p align="center">
