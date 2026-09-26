@@ -19,7 +19,7 @@
 
 <h2 align="center">🛠️ Tecnologias</h2>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="33%" align="center" valign="middle"><img src="https://img.shields.io/badge/Front--end-FF69B4?style=for-the-badge" /></td>
     <td width="33%" align="center" valign="middle"><img src="https://img.shields.io/badge/Back--end-FF69B4?style=for-the-badge" /></td>
@@ -41,12 +41,28 @@
 
 <h2 align="center">📊 GitStatistics</h2>
 
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=freitasfany&show_icons=true&hide_border=false&title_color=FF69B4&text_color=E6EDF3&icon_color=FF69B4&bg_color=0D1117&border_color=FF69B4&rank_icon=github" />
+    </td>
+    <td align="center" valign="middle">
+      <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=freitasfany&layout=compact&hide_border=false&title_color=FF69B4&text_color=E6EDF3&bg_color=0D1117&border_color=FF69B4" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=freitasfany&show_icons=true&hide_border=false&title_color=FF69B4&text_color=E6EDF3&icon_color=FF69B4&bg_color=0D1117&border_color=FF69B4&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=freitasfany&layout=compact&hide_border=false&title_color=FF69B4&text_color=E6EDF3&bg_color=0D1117&border_color=FF69B4" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/freitasfany/freitasfany/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/freitasfany/freitasfany/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/freitasfany/freitasfany/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/freitasfany/freitasfany/output/github-contribution-grid-snake.svg" />
-</picture>
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=freitasfany&label=Profile%20views&color=FF69B4&style=flat" />
+</p>
